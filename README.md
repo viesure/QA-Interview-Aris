@@ -51,7 +51,7 @@ The API will return the following fields: `city`, `condition`, `icon`, `descript
 
 ### The API:
 
-The base url of the API is: `https://backend-interview.tools.gcp.viesure.io/`
+The base url of the API is: `https://backend-interview.tools.gcp.viesure.io`
 <br >**Eg.:** GET `https://backend-interview.tools.gcp.viesure.io/weather`
 
 **GET .../weather**
